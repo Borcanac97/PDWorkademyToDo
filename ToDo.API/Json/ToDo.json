@@ -1,0 +1,46 @@
+{
+
+  "todos": [
+    {
+      "id": 1,
+      "title": "Task One",
+      "description": "Description of To Do No. 1",
+      "scheduledFor": "2022-10-10",
+      "commentIds": [ 1, 3, 6 ],
+      "categoryIds": 3
+    },
+    {
+      "id": 2,
+      "title": "Task Two",
+      "description": "Description of To Do No. 2",
+      "scheduledFor": "2022-11-11",
+      "commentIds": [ 2, 3 ],
+      "categoryIds": 2
+    },
+    {
+      "id": 3,
+      "title": "Task One",
+      "description": "Description of To Do No. 3",
+      "scheduledFor": "2022-09-04",
+      "commentIds": [ 1, 3 ],
+      "categoryIds": 1
+    },
+    {
+      "id": 4,
+      "title": "Task Four",
+      "description": "Description of To Do No. 4",
+      "scheduledFor": "2022-12-12",
+      "commentIds": [ 1, 4 ],
+      "categoryIds": 3
+    },
+    {
+      "id": 5,
+      "title": "Task Five",
+      "description": "Description of To Do No. 5",
+      "scheduledFor": "2023-01-22",
+      "commentIds": [ 4, 5 ],
+      "categoryIds": 3
+    }
+  ]
+
+}

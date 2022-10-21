@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "type": "Red",
+      "overview": "Worst possible category"
+    },
+    {
+      "id": 2,
+      "type": "Orange",
+      "overview": "Normal category"
+    },
+    {
+      "id": 3,
+      "type": "Green",
+      "overview": "Best possible category"
+    }
+  ]
+}
